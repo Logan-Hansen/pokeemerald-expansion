@@ -7688,6 +7688,7 @@ static const struct LevelUpMove sRayquazaLevelUpLearnset[] = {
     LEVEL_UP_MOVE(60, MOVE_EXTREME_SPEED),
     LEVEL_UP_MOVE(65, MOVE_OUTRAGE),
     LEVEL_UP_MOVE(75, MOVE_HYPER_BEAM),
+    LEVEL_UP_MOVE(80, MOVE_DRAGON_ASCENT),
     LEVEL_UP_END
 };
 #endif //P_FAMILY_RAYQUAZA

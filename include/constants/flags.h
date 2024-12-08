@@ -1175,8 +1175,8 @@
 #define FLAG_ITEM_NEW_MAUVILLE_FULL_HEAL                            0x462
 #define FLAG_ITEM_NEW_MAUVILLE_PARALYZE_HEAL                        0x463
 #define FLAG_ITEM_AQUA_HIDEOUT_B1F_MASTER_BALL                      0x464
-#define FLAG_ITEM_OLD_MAGMA_HIDEOUT_B1F_MASTER_BALL                 0x465 // Unused Flag, leftover from the Ruby Magma hideout
-#define FLAG_ITEM_OLD_MAGMA_HIDEOUT_B1F_MAX_ELIXIR                  0x466 // Unused Flag, leftover from the Ruby Magma hideout
+#define FLAG_ITEM_KYOGRE_MASTER_BALL                                0x465 // formerly unused leftover from the Ruby Magma hideout FLAG_ITEM_OLD_MAGMA_HIDEOUT_B1F_MASTER_BALL ; mine now
+#define FLAG_ITEM_GROUDON_MASTER_BALL                               0x466 // formerly unused leftover from the Ruby Magma hideout FLAG_ITEM_OLD_MAGMA_HIDEOUT_B1F_MAX_ELIXIR  ; mine now
 #define FLAG_ITEM_OLD_MAGMA_HIDEOUT_B2F_NEST_BALL                   0x467 // Unused Flag, leftover from the Ruby Magma hideout
 #define FLAG_UNUSED_0x468                                           0x468 // Unused Flag
 #define FLAG_ITEM_MT_PYRE_2F_ULTRA_BALL                             0x469
@@ -1222,10 +1222,10 @@
 #define FLAG_ITEM_SAFARI_ZONE_NORTH_EAST_NUGGET                     0x491
 #define FLAG_ITEM_SAFARI_ZONE_SOUTH_EAST_BIG_PEARL                  0x492
 
-#define FLAG_UNUSED_0x493                                           0x493 // Unused Flag
-#define FLAG_UNUSED_0x494                                           0x494 // Unused Flag
-#define FLAG_UNUSED_0x495                                           0x495 // Unused Flag
-#define FLAG_UNUSED_0x496                                           0x496 // Unused Flag
+#define FLAG_CUSTOM_ITEM_EON_TICKET                                 0x493 // Custom Flag
+#define FLAG_CUSTOM_ITEM_OLD_SEA_MAP                                0x494 // Custom Flag
+#define FLAG_CUSTOM_ITEM_MYSTIC_TICKET                              0x495 // Custom Flag
+#define FLAG_CUSTOM_ITEM_AURORA_TICKET                              0x496 // Custom Flag
 #define FLAG_UNUSED_0x497                                           0x497 // Unused Flag
 #define FLAG_UNUSED_0x498                                           0x498 // Unused Flag
 #define FLAG_UNUSED_0x499                                           0x499 // Unused Flag
